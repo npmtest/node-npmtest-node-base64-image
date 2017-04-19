@@ -1,4 +1,7 @@
-# test coverage for  [node-base64-image (v1.0.3)](http://riyadhalnur.github.io/node-base64-image/)  [![npm package](https://img.shields.io/npm/v/npmtest-node-base64-image.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-base64-image) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-base64-image.svg)](https://travis-ci.org/npmtest/node-npmtest-node-base64-image)
+# npmtest-node-base64-image
+
+#### basic test coverage for  [node-base64-image (v1.0.3)](http://riyadhalnur.github.io/node-base64-image/)  [![npm package](https://img.shields.io/npm/v/npmtest-node-base64-image.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-base64-image) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-base64-image.svg)](https://travis-ci.org/npmtest/node-npmtest-node-base64-image)
+
 #### Download images from remote URLs and encode/decode them to base64
 
 [![NPM](https://nodei.co/npm/node-base64-image.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-base64-image)
