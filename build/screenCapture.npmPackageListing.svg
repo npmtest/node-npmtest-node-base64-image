@@ -1,21 +1,21 @@
 <svg height="286" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="286" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 10:40:57 +0000    31360 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 10:40:57 +0000      337 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 10:40:57 +0000     2641 bytes  CONTRIBUTING.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 10:40:57 +0000     1113 bytes  LICENSE</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 10:40:57 +0000     1279 bytes  README.md</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 10:40:57 +0000      364 bytes  appveyor.yml</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 10:40:57 +0000     3556 bytes  dist/node-base64-image.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 10:40:57 +0000     2896 bytes  docs/docs.md</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 10:40:57 +0000     2857 bytes  gulpfile.babel.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-17 10:40:57 +0000     3900 bytes  package.json</tspan>
-<tspan x="10" y="186"> 10.  2017-04-17 10:40:57 +0000     3064 bytes  src/node-base64-image.js</tspan>
-<tspan x="10" y="202"> 11.  2017-04-17 10:40:57 +0000       24 bytes  test.jpg</tspan>
-<tspan x="10" y="218"> 12.  2017-04-17 10:40:57 +0000      208 bytes  test/setup/node.js</tspan>
-<tspan x="10" y="234"> 13.  2017-04-17 10:40:57 +0000      829 bytes  test/setup/setup.js</tspan>
-<tspan x="10" y="250"> 14.  2017-04-17 10:40:57 +0000     4018 bytes  test/unit/node-base64-image.js</tspan>
-<tspan x="10" y="266"> 15.  2017-04-17 10:40:57 +0000     4274 bytes  test/unit/test.jpg</tspan>
+<tspan x="10" y="26">  0.  2017-04-19 20:19:17 +0000    31360 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-19 20:19:17 +0000      337 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-19 20:19:17 +0000     2641 bytes  CONTRIBUTING.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-19 20:19:17 +0000     1113 bytes  LICENSE</tspan>
+<tspan x="10" y="90">  4.  2017-04-19 20:19:17 +0000     1279 bytes  README.md</tspan>
+<tspan x="10" y="106">  5.  2017-04-19 20:19:17 +0000      364 bytes  appveyor.yml</tspan>
+<tspan x="10" y="122">  6.  2017-04-19 20:19:17 +0000     3556 bytes  dist/node-base64-image.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-19 20:19:17 +0000     2896 bytes  docs/docs.md</tspan>
+<tspan x="10" y="154">  8.  2017-04-19 20:19:17 +0000     2857 bytes  gulpfile.babel.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-19 20:19:17 +0000     3900 bytes  package.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-19 20:19:17 +0000     3064 bytes  src/node-base64-image.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-19 20:19:17 +0000       24 bytes  test.jpg</tspan>
+<tspan x="10" y="218"> 12.  2017-04-19 20:19:17 +0000      208 bytes  test/setup/node.js</tspan>
+<tspan x="10" y="234"> 13.  2017-04-19 20:19:17 +0000      829 bytes  test/setup/setup.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-19 20:19:17 +0000     4018 bytes  test/unit/node-base64-image.js</tspan>
+<tspan x="10" y="266"> 15.  2017-04-19 20:19:17 +0000     4274 bytes  test/unit/test.jpg</tspan>
 </text>
 </svg>
